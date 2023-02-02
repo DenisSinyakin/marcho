@@ -9,6 +9,7 @@
   "author": "Denis Sinyakin",
   "license": "ISC",
   "devDependencies": {
+    "@fancyapps/fancybox": "^3.5.7",
     "browser-sync": "^2.27.11",
     "concat": "^1.0.3",
     "del": "^5.1.0",
